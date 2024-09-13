@@ -1,5 +1,5 @@
 <template>
-你好你好
+  <div class="text"><span>我不好</span></div>
 </template>
 
 <script setup lang="ts" name="Index">
